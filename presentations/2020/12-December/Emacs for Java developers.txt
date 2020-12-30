@@ -1,0 +1,1 @@
+Slides at https://github.com/iocanel/presentations/tree/master/2020-jhug-emacs-for-java-developers
