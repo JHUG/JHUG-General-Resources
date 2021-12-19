@@ -23,23 +23,23 @@ Here you will find material from the JHUG events.
 ### December [blog post](https://www.jhug.gr/jhug-meetup-december-29th-2020/)
 
 - Micronaut in 15 minutes by Paris Apostolopoulos [slides](presentations/2020/12-December/Micronaut%20in%2015%20minutes.pdf)
-- IO Thread vs Worker thread demystified by Georgios Andrianakis [slides](presentations/2020/12-December/IO Thread vs Worker thread demystified.txt)
-- Emacs for Java developers by Ioannis Canellos [slides](presentations/2020/12-December/Emacs for Java developers.txt)
-- Advent of Code in Java by Spyros Anastasopoulos [slides](presentations/2020/12-December/Advent of Code in Java.pdf)
+- IO Thread vs Worker thread demystified by Georgios Andrianakis [slides](presentations/2020/12-December/IO%20Thread%20vs%20Worker%20thread%20demystified.txt)
+- Emacs for Java developers by Ioannis Canellos [slides](presentations/2020/12-December/Emacs%20for%20Java%20developers.txt)
+- Advent of Code in Java by Spyros Anastasopoulos [slides](presentations/2020/12-December/Advent%20of%20Code%20in%20Java.pdf)
 
 ### June [recap in Greek](https://tinyletter.com/jhug/letters/you-ve-got-mail-from-jhug-3)
 
-- Tale of a Kernel bug by Alexandros Sapranidis [slides](presentations/2020/06-June/The story of black box debugging.pdf)
-- Java programming for fun by Spyros Anastasopoulos [slides](presentations/2020/06-June/Java programming for fun.pdf)
-- Google Cloud Run.pdf by Paris Apostolopoulos [slides](presentations/2020/06-June/Google Cloud Run.pdf)
+- Tale of a Kernel bug by Alexandros Sapranidis [slides](presentations/2020/06-June/The%20story%20of%20black%20box%20debugging.pdf)
+- Java programming for fun by Spyros Anastasopoulos [slides](presentations/2020/06-June/Java%20programming%20for%20fun.pdf)
+- Google Cloud Run.pdf by Paris Apostolopoulos [slides](presentations/2020/06-June/Google%20Cloud%20Run.pdf)
 - Contributing to open source software by Ioannis Canellos [slides](presentations/2020/06-June/contributing-to-oss.pdf)
 
 ### May [recap in Greek](https://tinyletter.com/jhug/letters/you-ve-got-mail-from-jhug-2)
 
-- How a Java 8 backport wreaked havoc by Georgios Andrianakis [slides](presentations/2020/05-May/Java8 - Backport - JHUG.pdf)
-- Eurobank during COVID-19_v1.1 by Ioannis Kormaris and Anestis Georgiadis [slides](presentations/2020/05-May/Eurobank during COVID-19_v1.1.pdf)
-- Effective Code Reviews by Alexandros Ntousias [slides](presentations/2020/05-May/Effective Code Reviews - JHUG.pdf)
-- Compatibility testing Hazelcast.pdf by Vassilis Bekiaris [slides](presentations/2020/05-May/Compatibility testing Hazelcast.pdf)
+- How a Java 8 backport wreaked havoc by Georgios Andrianakis [slides](presentations/2020/05-May/Java8%20-%20Backport%20-%20JHUG.pdf)
+- Eurobank during COVID-19_v1.1 by Ioannis Kormaris and Anestis Georgiadis [slides](presentations/2020/05-May/Eurobank%20during%20COVID-19_v1.1.pdf)
+- Effective Code Reviews by Alexandros Ntousias [slides](presentations/2020/05-May/Effective%20Code%20Reviews%20-%20JHUG.pdf)
+- Compatibility testing Hazelcast.pdf by Vassilis Bekiaris [slides](presentations/2020/05-May/Compatibility%20testing%20Hazelcast.pdf)
 
 ## 2019
 
@@ -54,7 +54,7 @@ Here you will find material from the JHUG events.
 
 ### April [blog post](https://www.jhug.gr/jhug-meetup-april-9th-2019/)
 
-- Introduction to Quarkus by Georgios Andrianakis [slides](presentations/2019/04-april/Quarkus - JHUG.pdf) [video](https://vimeo.com/339715440)
+- Introduction to Quarkus by Georgios Andrianakis [slides](presentations/2019/04-april/Quarkus%20-%20JHUG.pdf) [video](https://vimeo.com/339715440)
 - Software testing anti-patterns by Kostis Kapelonis [slides](presentations/2019/04-april/software-testing-anti-patterns.pdf) [video](https://vimeo.com/335675924)
 
 ### February
@@ -73,11 +73,11 @@ Here you will find material from the JHUG events.
 
 - Notes on Java security by Dimitris Glynos [slides](presentations/2018/10-October/notes-java-sec.pdf) [video](https://vimeo.com/301395882)
 - Java is still free by Spyros Anastasopoulos [slides](presentations/2018/10-October/JavaLicense.pdf)
-- Getting (a bit) familiar with Data Science by Ioannis Foukarakis [slides](presentations/2018/10-October/Getting (a bit) familiar with Data Science.pdf) [video](https://vimeo.com/299762465)
+- Getting (a bit) familiar with Data Science by Ioannis Foukarakis [slides](presentations/2018/10-October/Getting%20(a%20bit)%20familiar%20with%20Data%20Science.pdf) [video](https://vimeo.com/299762465)
 
 ### September [blog post](https://www.jhug.gr/new-meetupsep-2018/)
 
-- Microservices architecture in action by Ioannis Kormaris [slides](presentations/2018/09-September/MicroServices Architecture In Action.pdf) [video](https://vimeo.com/293447463)
+- Microservices architecture in action by Ioannis Kormaris [slides](presentations/2018/09-September/MicroServices%20Architecture%20In%20Action.pdf) [video](https://vimeo.com/293447463)
 - An overview of IntelliJ IDEA by Zisis Pontikas [slides](presentations/2018/09-September/Jetbrains.pdf) [video](https://vimeo.com/294017886)
 
 ### February [blog post](https://www.jhug.gr/jhug-meetup-february-28th-2018/)
@@ -89,8 +89,8 @@ Here you will find material from the JHUG events.
 
 ### November [blog post](https://fragkakis.github.io/JHUG-meetup-28-November-2017/)
 
-- Using JCache to speed up your apps by Vassilis Bekiaris [slides](presentations/2017/28-November/Using JCache to speed up your apps.pdf)
-- Docker, Kubernetes & Java Microservices by Apostolos Polymenakos and Giorgos Sikalias [slides](presentations/2017/28-November/Docker, Kubernetes & Java Microservices.pdf) [video](https://vimeo.com/247101263)
+- Using JCache to speed up your apps by Vassilis Bekiaris [slides](presentations/2017/28-November/Using%20JCache%20to%20speed%20up%20your%20apps.pdf)
+- Docker, Kubernetes & Java Microservices by Apostolos Polymenakos and Giorgos Sikalias [slides](presentations/2017/28-November/Docker,%20Kubernetes%20&%20Java%20Microservices.pdf) [video](https://vimeo.com/247101263)
 
 ### October [blog post](https://fragkakis.github.io/JHUG-meetup-20-October-2017/)
 
