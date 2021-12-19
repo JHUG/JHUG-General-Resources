@@ -22,7 +22,7 @@ Here you will find material from the JHUG events.
 
 ### December [blog post](https://www.jhug.gr/jhug-meetup-december-29th-2020/)
 
-- Micronaut in 15 minutes by Paris Apostolopoulos [slides](presentations/2020/12-December/Micronaut in 15 minutes.pdf)
+- Micronaut in 15 minutes by Paris Apostolopoulos [slides](presentations/2020/12-December/Micronaut%20in%2015%20minutes.pdf)
 - IO Thread vs Worker thread demystified by Georgios Andrianakis [slides](presentations/2020/12-December/IO Thread vs Worker thread demystified.txt)
 - Emacs for Java developers by Ioannis Canellos [slides](presentations/2020/12-December/Emacs for Java developers.txt)
 - Advent of Code in Java by Spyros Anastasopoulos [slides](presentations/2020/12-December/Advent of Code in Java.pdf)
