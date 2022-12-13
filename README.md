@@ -2,6 +2,13 @@
 
 Here you will find material from the JHUG events.
 
+## 2022
+
+### December
+
+- Evolving 20+ years codebase by George Gkogkolis [slides](presentations/2022/12-December/evolving-20-years-codebase.pdf)
+- Transactional Outbox with a twist by Chris Aslanoglou [slides](presentations/2022/12-December/transactional-outbox-blueground-presentation.pdf)
+
 ## 2021
 
 ### October [recap in Greek](https://tinyletter.com/jhug/letters/jhug-newsletter-october-2021)
